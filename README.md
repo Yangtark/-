@@ -9,3 +9,7 @@ vue + sass + router
 3. 详情页面
 4. 路由页面联动
 5. 判断是否登录，页面是否显示
+
+运行条件：
+需要下载node_modules才可运行
+命令：npm install 或 cnpm install
